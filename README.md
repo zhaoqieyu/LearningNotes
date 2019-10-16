@@ -8,6 +8,6 @@
 * week5:
 [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
 * HW1:
-[HW1_QuickSort(1018)]、
+[HW1_QuickSort(1018)](https://github.com/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/HW1_QuickSort(1018).ipynb)、
 [流程圖]、
 [示意圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/%E7%A4%BA%E6%84%8F%E5%9C%96.jpg)
