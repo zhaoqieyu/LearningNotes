@@ -20,5 +20,5 @@
              
       Step3. remove the node
       
-      Step4. 從heap中依序抽出來（確保每一段都是heap) → 得到heap sort
+      Step4. 從heap中依序抽出來 → 得到heap sort
 >一個要花logn的時間 → 則n個的話共要花nlogn的時間
