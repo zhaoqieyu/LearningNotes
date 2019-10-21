@@ -17,3 +17,13 @@
 [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
 * week6:
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
+
+
+# 如何debug?
+spyder-debugmode:
+
+    STEP1 把print放在想知道的地方
+    STEP2 刪掉可能錯的
+    STEP3 手寫設Breakpoint印出來的跟手寫的一不一樣
+              step直接跳到下一個
+              step in跳到同一個的下一行
