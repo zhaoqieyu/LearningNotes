@@ -15,3 +15,5 @@
 [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
 * week5:
 [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
+*  
+[Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
