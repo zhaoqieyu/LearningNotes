@@ -5,25 +5,25 @@
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
 
 # Homework
-* HW1:
+* HW1 :
 [HW1_QuickSort(1018)](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/HW1_QuickSort%281018%29.ipynb)、
 [流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 # LearningNotes
-* week2:
+* week2 :
 [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
-* week3:
+* week3 :
 [Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
-* week4:
+* week4 :
 [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
-* week5:
+* week5 :
 [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
-* week6:
+* week6 :
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
 
 
 ## 如何debug?
-  >spyder-debugmode:
+  >spyder-debugmode :
   
       Step1. 把print放在想知道的地方             
       
