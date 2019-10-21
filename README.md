@@ -27,7 +27,6 @@
       Step2. 刪掉可能錯的
              
       Step3. 手寫設Breakpoint印出來的跟手寫的一不一樣
-      
-      * `step`直接跳到下一個
-      * `step in`跳到同一個的下一行
+                  step直接跳到下一個
+                  step in跳到同一個的下一行
       
