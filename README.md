@@ -22,11 +22,9 @@
 ## 如何debug?
   >spyder-debugmode:
   
-      Step1. 把print放在想知道的地方
-             
+      Step1. 把print放在想知道的地方             
       Step2. 刪掉可能錯的
-             
-      Step3. 手寫設Breakpoint印出來的跟手寫的一不一樣
+      Step3. 手寫設Breakpoint，看看print出來的跟手寫的一不一樣
              → step : 直接跳到下一個
              → step in : 跳到同一個的下一行
       
