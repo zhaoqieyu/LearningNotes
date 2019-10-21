@@ -4,7 +4,7 @@
 * EX:堆杯子
 
 ## 基本觀念
-* **每個node只能有兩個子節點** 
+* **每個節點(node)只能有兩個子節點** 
 * **樹根(root)一定最小或最大**
 * 先左後右 `從最左邊比到最右邊`
 * 型態 : 
@@ -20,5 +20,5 @@
              
       Step3. remove the node
       
-      Step4. 從heap中依序抽出來 → 得到heap sort
+      Step4. 移除的node，從heap中依序抽出來 → 得到heap sort
 >一個要花logn的時間 → 則n個的話共要花nlogn的時間
