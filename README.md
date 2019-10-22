@@ -1,9 +1,6 @@
 # 108_1 資料結構與演算法
 >06170106趙緁愉
 
-# 何謂演算法?
->把每個值拆成細項步驟，估計花多少時間能夠消化完畢
-
 # Homework
 * HW1 :
 [HW1_QuickSort(1018)](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/HW1_QuickSort%281018%29.ipynb)、
@@ -21,6 +18,9 @@
 * week6 :
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
 
+
+# 何謂演算法?
+>把每個值拆成細項步驟，估計花多少時間能夠消化完畢
 
 ## 如何debug?
   >spyder-debugmode :
