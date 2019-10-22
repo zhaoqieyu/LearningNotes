@@ -9,4 +9,4 @@
 
 ## reference
 ###### [🔗HW1_QuickSort(1018)](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/HW1_QuickSort%281018%29.ipynb)
-###### [🔗流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/04_Quick%20Sort/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+###### [🔗流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
