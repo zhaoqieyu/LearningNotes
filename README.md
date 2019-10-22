@@ -19,7 +19,7 @@
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
 
 
-# 何謂演算法?
+## 何謂演算法?
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
 
 ## 如何debug?
