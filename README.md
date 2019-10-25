@@ -3,8 +3,8 @@
 
 # Homework(助教看這裡)
 * HW1(1018) :
-    * [QuickSort程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
-    * [QuickSort流程圖](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW/HW1_QuickSort%281018%29.ipynb)
+    * [程式碼_QuickSort](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
+    * [流程圖_QuickSort](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
 * HW2(1108) :
 
 # LearningNotes
