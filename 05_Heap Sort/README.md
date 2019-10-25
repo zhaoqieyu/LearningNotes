@@ -13,14 +13,15 @@
     * 最大堆積(max heap) : 父節點的值大於子節點  `樹根(root)一定是最大值`
       
 ## 做法
-      Step1. build heap 把數列建成一個heap 
-             → 無條件擺進heap
+      Step1. build heap 
+             把數列建成一個heap → 無條件擺進heap
              
-      Step2. transfer to min/max heap 再把heap轉換成max heap或min heap
+      Step2. transfer to min/max heap 
+             再把heap轉換成max heap或min heap
              
       Step3. remove the node 移除最上面的節點
-                        並
-             把最後一個數放到最上面
+                        
+      Step4. 把最後一個數放到最上面的節點
       
-      Step4. 把移除的node，從heap中依序抽出來 → 得到heap sort
+      Step5. 把移除的node，從heap中依序抽出來 → 得到heap sort
 >一個要花logn的時間 → 則n個的話共要花nlogn的時間
