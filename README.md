@@ -19,7 +19,7 @@
 * week6 :
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
 * week7 :
-[Merge Sort]
+[Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
 
 
 ## 何謂演算法?
