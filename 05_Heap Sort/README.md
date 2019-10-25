@@ -13,8 +13,10 @@
     * 最大堆積(max heap) : 父節點的值大於子節點  `樹根(root)一定是最大值`
  * **一個要花logn的時間 → 則n個的話共要花nlogn的時間**
       
-## 做法(假設有7個數，從i=0，如連結中的流程圖所示)
-    Step1. build heap 把數列建成一個heap 
+## 做法
+   >假設有7個數，從i=0，如連結中的流程圖所示
+    
+   Step1. build heap 把數列建成一個heap 
            → HOW?? 把i=0,i=1,i=2...i=n+1 由上至下、左至右無條件擺進heap
              
     Step2. transfer to min/max heap 再把heap轉換成max heap或min heap
