@@ -28,8 +28,9 @@
     Step4. 把最後一個數字(heap中最後一層的最右邊的數字)拉到最上面的節點繼續進行比較
       
     Step5. 把移除的node，從heap中依序抽出來，得到heap sort
-           → HOW?? 第一輪:i=0(要移除的node)和i=6換位子(最後一個數字拉到最上面)，故移除的node會從最後面往前依序排列，排在最後
-                   第二輪:i=0(要移除的node)和i=5換位子(最後一個數字拉到最上面)，故移除的node會從最後面往前依序排列，排在倒數第二(i=6前)
+           → HOW?? 第一輪:i=0(要移除的node)和i=6換位子(最後一個數字拉到最上面)，故移除的node會從最後往前依序排列，排在最後
+                   第二輪:i=0(要移除的node)和i=5換位子(最後一個數字拉到最上面)，故移除的node會從最後往前依序排列，排在倒數第二(i=6前)
+                   之後以此類推
      
 ## reference
 ###### [🔗流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/%E6%B5%81%E7%A8%8B%E5%9C%96_Heap%20Sort.jpg)
