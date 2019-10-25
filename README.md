@@ -2,10 +2,10 @@
 >06170106趙緁愉
 
 # Homework(助教看這裡)
-* HW1 :
-[HW1_QuickSort(1018)](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW/HW1_QuickSort%281018%29.ipynb)、
-[HW1_QuickSort流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
-* HW2 :
+* HW1(1018) :
+    *[HW1_QuickSort](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW/HW1_QuickSort%281018%29.ipynb)、*
+    *[HW1_QuickSort流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+* HW2(1108) :
 
 # LearningNotes
 * week2 :
