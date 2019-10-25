@@ -18,6 +18,8 @@
 [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
 * week6 :
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
+* week7 :
+[Merge Sort]
 
 
 ## 何謂演算法?
