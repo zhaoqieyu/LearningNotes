@@ -6,8 +6,8 @@
     * [程式碼_QuickSort](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
     * [流程圖_QuickSort](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
 * HW2(1108) :
-    * [heap_sort_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_06170106.py)
-    * [merge_sort_程式碼]
+    * [heap_sort_程式碼]
+    * [merge_sort_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_06170106.py)
     * [heap_sort_說明]
     * [merge_sort_說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_%E8%AA%AA%E6%98%8E.ipynb)
     * [heap_sort & merge_sort之比較](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort%20%26%20merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
