@@ -24,6 +24,8 @@
 [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
 * week7 :
 [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
+* week8 :
+[Binary Tree]
 
 
 ## 何謂演算法?
