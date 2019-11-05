@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 class Solution(object):
 
     def merge_sorted_array(self, left_array, right_array):
