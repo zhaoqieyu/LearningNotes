@@ -49,7 +49,7 @@ class Solution(object):
             return example
 
 
-example = [9, 6, 21, 19, 23, 8]
+example=[9,6,21,19,23,8,6]
 
 output = Solution().merge_sort(example)
 print(output)
