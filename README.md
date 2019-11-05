@@ -25,7 +25,7 @@
 * week7 :
 [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
 * week8 :
-[Binary Tree]
+[Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
 
 
 ## 何謂演算法?
