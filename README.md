@@ -1,7 +1,7 @@
 # 108_1 資料結構與演算法
 >06170106趙緁愉
 
-# Homework(助教看這裡)
+# Homework
 * HW1(1018) :
     * [程式碼_QuickSort](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
     * [流程圖_QuickSort](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
