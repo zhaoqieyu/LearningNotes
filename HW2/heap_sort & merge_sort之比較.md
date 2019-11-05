@@ -1,4 +1,4 @@
-# Difference between heap_sort & merge_sort
+# Comparison between heap_sort & merge_sort
 | item | content | heap_sort | merge_sort
 | :---: | :---: | :---: | :---: 
 1 | 中文 | **堆積**排序法 | **合併**排序法
