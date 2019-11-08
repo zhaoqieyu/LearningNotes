@@ -11,6 +11,10 @@
     * [heap_sort_說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort_%E8%AA%AA%E6%98%8E.ipynb)
     * [merge_sort_說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_%E8%AA%AA%E6%98%8E.ipynb)
     * [heap_sort & merge_sort之比較](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort%20%26%20merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
+    * HW3(1122) :
+    * [Binary Search Tree_程式碼]
+    * [Binary Search Tree_功能說明]
+    * [Binary Search Tree_流程圖_學習歷程]
 # LearningNotes
 * week2 :
 [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
