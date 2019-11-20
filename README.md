@@ -14,7 +14,7 @@
 * HW3(1122) :
     * [Binary Search Tree_程式碼]
     * [Binary Search Tree_功能說明]
-    * [Binary Search Tree_流程圖_學習歷程]
+    * [Binary Search Tree_原理_流程圖_學習歷程]
 # LearningNotes
 * week2 :
 [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
