@@ -6,7 +6,9 @@
 ## 刪除
 >delete ( ) : 在BST刪除此數(可能有多個)
 
-`def insert(self, root, val):
+分為三種種況思考 : 
+
+      def insert(self, root, val):
         if val <= root.val :
             if root.left == None :
                 root.left = TreeNode(val)
@@ -18,7 +20,7 @@
                 root.right = TreeNode(val)
                 return root.right
             else:
-                return self.insert(root.right,val)`
+                return self.insert(root.right,val)
 ## 查詢
 >search ( ) : 在BST找尋一數
 
@@ -26,4 +28,3 @@
 >modify ( ) : 在BST用新數取代舊數(可能有多個)
 
 ## reference
-
