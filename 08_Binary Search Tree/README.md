@@ -1,16 +1,21 @@
-# Binary Search Tree 功能說明
+# Binary Search Tree
+>二元搜尋樹
 
-## 新增
+## 基本觀念
 
       
-## 刪除
-
+## 做法
+    Step1. 
+             
+    Step2. 
+                         
+    Step3. 
+    
+    Step4. 
+                             
+    Step5. 
      
-## 查詢
-
-
-## 修改
-
-
 ## reference
+
+
 
