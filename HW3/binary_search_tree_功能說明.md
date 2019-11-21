@@ -17,7 +17,7 @@
      1.                                       
      2. 
      
- * 程式碼如下列所示
+ 程式碼如下列所示
   
       def insert(self, root, val):
           if val <= root.val :
@@ -42,11 +42,15 @@
 >search ( ) : 在BST找尋一數
 
 * 何謂尋訪traversal??                    
-  站在root的角度，往所有與root相連的地方移動，不同的尋訪方式存取值的順序也會不一樣，又分為              
-  1. preorder: 中->左->右，4213657                    
-  2. inorder: 左->中->右，1234567 (對binary search tree做inorder traversal就是依序拿取)                
-  3. postorder: 左->右->中，1325764
-
+  站在root的角度，往所有與root相連的地方移動，不同的尋訪方式存取值的順序也會不一樣，又分為
+  
+  ![BST結構圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/BST.jpg?raw=true)
+  
+  (圖片來源 : 老師上課PPT)
+  1. preorder : root->左->右， ( 5 ) , ( 3 , 3 , -5 ) , ( 8 , 7 , 6 , 10 )                  
+  2. inorder : 左->root->右 ( 依序拿取 )， ( -5 , 3 , 3 ) , ( 5 ) , ( 6 , 7 , 8 , 10 )                 
+  3. postorder: 左->右->root， ( -5 , 3 , 3 ) , ( 6 , 7 , 10 , 8 ) , ( 5 )             
+  
 * 分為三種狀況思考:                
   1. 若要搜尋的值**等於**root，則**直接回傳**root
   2. 若要搜尋的值**小於**root，則要**往左邊**搜尋                       
@@ -56,7 +60,7 @@
      1. 若右邊是空值                                    
      2. 若右邊非空值
   
- * 程式碼如下列所示
+ 程式碼如下列所示
   
       def search(self, root, target):
           if target == root.val :
@@ -79,4 +83,5 @@
 http://alrightchiu.github.io/SecondRound/binary-tree-traversalxun-fang.html
 
 http://shubo.io/iterative-binary-tree-traversal/
+
 
