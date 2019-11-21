@@ -49,7 +49,9 @@
   (圖片來源 : 老師上課PPT)
   1. preorder : root->左->右， ( 5 ) , ( 3 , 3 , -5 ) , ( 8 , 7 , 6 , 10 )                  
   2. inorder : 左->root->右 ( 依序拿取 )， ( -5 , 3 , 3 ) , ( 5 ) , ( 6 , 7 , 8 , 10 )                 
-  3. postorder: 左->右->root， ( -5 , 3 , 3 ) , ( 6 , 7 , 10 , 8 ) , ( 5 )             
+  3. postorder: 左->右->root， ( -5 , 3 , 3 ) , ( 6 , 7 , 10 , 8 ) , ( 5 )    
+
+* 何謂Depth-First Search(DFS，深度優先搜尋)??
   
 * 分為三種狀況思考:                
   1. 若要搜尋的值**等於**root，則**直接回傳**root
@@ -81,3 +83,5 @@
 
 ## reference
 http://alrightchiu.github.io/SecondRound/binary-tree-traversalxun-fang.html
+
+http://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html
