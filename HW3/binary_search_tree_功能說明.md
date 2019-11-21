@@ -17,7 +17,7 @@
      1. 若右邊是空值，則建立一個節點 ( 擁有TreeNode的特徵 ) 並把要插入的值填入此節點 
      2. 若右邊非空值，則
      
- 程式碼如下列所示
+ 程式碼如下列所示 ( 截取自作業 )
   
       def insert(self, root, val):
           if val <= root.val :
@@ -60,7 +60,7 @@
      1. 若右邊是空值，則直接回傳None                                    
      2. 若右邊非空值，則
   
- 程式碼如下列所示
+ 程式碼如下列所示 ( 截取自作業 )
   
       def search(self, root, target):
           if target == root.val :
