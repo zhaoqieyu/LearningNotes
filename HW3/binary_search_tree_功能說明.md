@@ -2,11 +2,10 @@
 >以作業的程式碼為例
 ## 新增
 >insert():在BST插入一數
-      
-## 刪除
->delete ( ) : 在BST刪除此數(可能有多個)
 
-分為三種種況思考 : 
+分為兩種種況思考 : 
+* 
+* 主要分成兩個步驟
 
       def insert(self, root, val):
           if val <= root.val :
@@ -21,8 +20,16 @@
                  return root.right
               else:
                  return self.insert(root.right,val)
+
+
+## 刪除
+>delete ( ) : 在BST刪除此數(可能有多個)
+
+                 
 ## 查詢
 >search ( ) : 在BST找尋一數
+
+何謂尋訪traversal??
 
 分為三種狀況思考:
 
