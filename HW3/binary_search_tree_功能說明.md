@@ -1,18 +1,18 @@
 # Binary Search Tree_功能說明
 >( 以作業的程式碼為例 )                     
  限制條件:                            
-   1.搜尋方式：preorder                          
-   2.修改/刪除 : 一樣的要一起處理                   
-   3.如何比較 : 小於等於 root：放左邊  /  大於 root：放右邊                    
-   4.限制 : 最終BST深度不能大於原深度
+ 1.搜尋方式：preorder                          
+ 2.修改/刪除 : 一樣的要一起處理                   
+ 3.如何比較 : 小於等於 root：放左邊  /  大於 root：放右邊                    
+ 4.限制 : 最終BST深度不能大於原深度
 
 ## 新增
 >insert():在BST插入一數
 
-* 分為兩種種況思考 :
-   
-
-
+* 分為兩種狀況思考:                
+  1.若要搜尋的值**小於等於**root                                                                      
+  2.若要搜尋的值**大於**root
+  
       def insert(self, root, val):
           if val <= root.val :
               if root.left == None :
@@ -39,8 +39,8 @@
 
 * 分為三種狀況思考:                
   1.若要搜尋的值**等於**root，則**直接回傳**root
-  2.若要搜尋的值**小於**root，則要往左邊搜尋                   
-  3.若要搜尋的值**大於**root，則
+  2.若要搜尋的值**小於**root，則要**往左邊**搜尋                   
+  3.若要搜尋的值**大於**root，則要**往右邊**搜尋
 
       def search(self, root, target):
           if target == root.val :
