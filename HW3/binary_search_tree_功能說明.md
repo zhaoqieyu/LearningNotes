@@ -17,7 +17,7 @@
      1.                                       
      2. 
      
-  程式碼如下列所示
+ * 程式碼如下列所示
   
       def insert(self, root, val):
           if val <= root.val :
@@ -41,13 +41,11 @@
 ## 查詢
 >search ( ) : 在BST找尋一數
 
-* 何謂尋訪traversal??
->站在root的角度，往所有與root相連的地方移動，不同的尋訪方式存取值的順序也會不一樣
-
-  又分為                           
-  preorder: 中->左->右，4213657                    
-  inorder: 左->中->右，1234567 (對binary search tree做inorder traversal就是依序拿取)                
-  postorder: 左->右->中，1325764
+* 何謂尋訪traversal??                    
+  站在root的角度，往所有與root相連的地方移動，不同的尋訪方式存取值的順序也會不一樣，又分為              
+  1. preorder: 中->左->右，4213657                    
+  2. inorder: 左->中->右，1234567 (對binary search tree做inorder traversal就是依序拿取)                
+  3. postorder: 左->右->中，1325764
 
 * 分為三種狀況思考:                
   1. 若要搜尋的值**等於**root，則**直接回傳**root
@@ -58,7 +56,7 @@
      1. 若右邊是空值                                    
      2. 若右邊非空值
   
-  程式碼如下列所示
+ * 程式碼如下列所示
   
       def search(self, root, target):
           if target == root.val :
