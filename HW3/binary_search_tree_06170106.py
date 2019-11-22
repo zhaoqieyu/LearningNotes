@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 class TreeNode(object):
     def __init__(self,x):
         self.val = x
@@ -57,7 +54,7 @@ class Solution(object):
             else:
                 dad.right = node.right
             return self.delete(root,target)      
-        """
+        """不確定
         else: 
             delete_nodedad = node
             delete_node = node.left
@@ -134,7 +131,7 @@ class Solution(object):
             else:
                 dad.right = node.right
             return FIND_NEXT
-        """
+        """不確定
         else: 
             delete_nodedad = node
             delete_node = node.left
@@ -154,4 +151,4 @@ class Solution(object):
                 else:
                     delete_nodedad.left = delete_node.left
             return FIND_NEXT
-            """
+        """
