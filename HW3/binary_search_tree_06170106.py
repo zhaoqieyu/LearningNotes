@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
-
-
 class TreeNode(object):
     def __init__(self,x):
         self.val = x
@@ -157,54 +154,3 @@ class Solution(object):
                 elif delete_nodedad.val < delete_node.val:
                     delete_nodedad.left = delete_node.left
             return FIND_NEXT
-        
-"""  
-import copy
-from binary_search_tree_06170106 import Solution
-from binary_search_tree_06170106 import TreeNode
-
-root  = TreeNode(5)
-Node1 = TreeNode(3)
-Node2 = TreeNode(3)
-Node3 = TreeNode(-5)
-Node4 = TreeNode(8)
-Node5 = TreeNode(7)
-Node6 = TreeNode(6)
-Node7 = TreeNode(10)
-root.left=Node1
-root.right=Node4
-Node1.left=Node2
-Node2.left=Node3
-Node4.left=Node5
-Node4.right=Node7
-Node5.left=Node6
-
-root1=copy.deepcopy(root)
-root2=copy.deepcopy(root)
-root3=copy.deepcopy(root)
-root4=copy.deepcopy(root)
-
-print("insert")
-print(Solution().insert(root1,4) ==root1.left.right)
-print("------------------")
-print("delete")
-root2=Solution().delete(root2,3)
-print(root2.val==5 and root2.left.val==-5 and root2.left.left==None and root2.left.right==None)
-print(root2.right.right.val==10 and root2.right.left.val==7 and root2.right.left.left.val== 6)
-print(root2.right.right.right==None and root2.right.right.left== None and root2.right.left.right==None )
-print(root2.right.left.left.left==None  and root2.right.left.left.right==None and root2.right.val== 8)
-print("------------------")
-print("search")
-print(Solution().search(root3,10) ==root3.right.right)
-print("------------------")
-print("modify")    
-root4 = Solution().modify(root4,7,4)
-#print(isBinarySearchTree(root4))
-print("--------------------------------------------------")
-"""
-
-# In[ ]:
-
-
-
-
