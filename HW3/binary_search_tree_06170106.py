@@ -74,7 +74,7 @@ class Solution(object):
             elif delete_node.left != 0:  
                 if delete_nodeparent.val > delete_node.val:
                     delete_nodeparent.right = delete_node.left
-                elif delete_nodeparent.val < delete_node.val:
+                else:
                     delete_nodeparent.left = delete_node.left
             return self.delete(root,target)
         
@@ -151,6 +151,6 @@ class Solution(object):
             elif delete_node.left != 0:  
                 if delete_nodedad.val > delete_node.val:
                     delete_nodedad.right = delete_node.left
-                elif delete_nodedad.val < delete_node.val:
+                else:
                     delete_nodedad.left = delete_node.left
             return FIND_NEXT
