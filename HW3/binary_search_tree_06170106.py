@@ -57,7 +57,7 @@ class Solution(object):
             else:
                 dad.right = node.right
             return self.delete(root,target)      
-
+        """
         else: 
             delete_nodedad = node
             delete_node = node.left
@@ -77,7 +77,7 @@ class Solution(object):
                 else:
                     delete_nodedad.left = delete_node.left
             return self.delete(root,target)
-        
+        """
     def search(self, root, target):
         if target == root.val :
             return root
@@ -134,7 +134,7 @@ class Solution(object):
             else:
                 dad.right = node.right
             return FIND_NEXT
-
+        """
         else: 
             delete_nodedad = node
             delete_node = node.left
@@ -154,3 +154,4 @@ class Solution(object):
                 else:
                     delete_nodedad.left = delete_node.left
             return FIND_NEXT
+            """
