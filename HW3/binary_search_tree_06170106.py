@@ -54,7 +54,8 @@ class Solution(object):
             else:
                 dad.right = node.right
             return self.delete(root,target)      
-        """不確定
+        """
+        不確定
         else: 
             delete_nodedad = node
             delete_node = node.left
@@ -131,7 +132,8 @@ class Solution(object):
             else:
                 dad.right = node.right
             return FIND_NEXT
-        """不確定
+        """
+        不確定
         else: 
             delete_nodedad = node
             delete_node = node.left
