@@ -162,7 +162,7 @@ class Solution(object):
 import copy
 from binary_search_tree_06170106 import Solution
 from binary_search_tree_06170106 import TreeNode
-"""
+
 root  = TreeNode(5)
 Node1 = TreeNode(3)
 Node2 = TreeNode(3)
@@ -201,7 +201,7 @@ print("modify")
 root4 = Solution().modify(root4,7,4)
 #print(isBinarySearchTree(root4))
 print("--------------------------------------------------")
-
+"""
 
 # In[ ]:
 
