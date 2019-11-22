@@ -59,23 +59,23 @@ class Solution(object):
             return self.delete(root,target)      
 
         else: 
-            delete_nodeparent = node
+            delete_nodedad = node
             delete_node = node.left
             while delete_node.right: 
-                delete_nodeparent = delete_node            
+                delete_nodedad = delete_node            
                 delete_node = delete_node.right
 
             node.val = delete_node.val 
             if delete_node.left == 0: 
-                if delete_node.val < delete_nodeparent.val:
-                    delete_nodeparent.right = None
+                if delete_node.val < delete_nodedad.val:
+                    delete_nodedad.right = None
                 else:
-                    delete_nodeparent.left = None
+                    delete_nodedad.left = None
             elif delete_node.left != 0:  
-                if delete_nodeparent.val > delete_node.val:
-                    delete_nodeparent.right = delete_node.left
+                if delete_node.val < delete_nodedad.val:
+                    delete_nodedad.right = delete_node.left
                 else:
-                    delete_nodeparent.left = delete_node.left
+                    delete_nodedad.left = delete_node.left
             return self.delete(root,target)
         
     def search(self, root, target):
@@ -149,7 +149,7 @@ class Solution(object):
                 else:
                     delete_nodedad.left = None
             elif delete_node.left != 0:  
-                if delete_nodedad.val > delete_node.val:
+                if delete_node.val < delete_nodedad.val:
                     delete_nodedad.right = delete_node.left
                 else:
                     delete_nodedad.left = delete_node.left
