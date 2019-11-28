@@ -30,8 +30,14 @@ ex : 此觀念類似於我國的**身分證字號**，每個人都有屬於自�
 ![hash table](https://miro.medium.com/max/2000/1*78wQr8-2tEPKWa0iobs8QQ.png)
 圖片來源 :　https://medium.com/php-hacks/manipulating-zend-hash-1-a87906bc6e9c
 ## reference
+https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view
+
 http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
 
 https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8
 
-https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view
+https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8
+
+https://toyo0103.blogspot.com/2018/04/hash-table.html
+
+https://blockbar.io/blockchain/hash%E6%98%AF%E4%BB%80%E9%BA%BC-what-is-hash/
