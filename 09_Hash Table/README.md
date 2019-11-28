@@ -1,7 +1,7 @@
 # Hash 原理解釋
 >所有資料結構中應用最廣泛的
 
-雜湊(Hash)算法一種用在資料編碼中的技術，最主要分為雜湊函數（Hash Function）和雜湊表（Hash Table）兩個部份
+雜湊 (Hash) 算法一種用在資料編碼中的技術，最主要分為雜湊函數（Hash Function）和雜湊表（Hash Table）兩個部份
 
 ## Hash Function ( 雜湊函數 )
 > 類似於**一台轉換器**，丟輸入進去就會產生一個輸出
