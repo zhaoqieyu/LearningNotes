@@ -9,10 +9,9 @@
    * 由走訪過的節點繼續進行搜尋，走完這層，才去下一層
    * 直到所有點走完
 
-* 實作：list.append(x)/list.pop(0)
+* 實作：
   * 起點加入queue
-  * 當queue沒有清空，則：
-  * 從queue取出一點並送出，將其相鄰點中，還未曾加入queue過的，加入queue。
+  * 當queue沒有清空，則：從queue取出一點並送出，將其相鄰點中，還未曾加入queue過的，加入queue
   * 直到queue清完時，則結束
 
 # Depth-First Search(DFS)
@@ -25,7 +24,7 @@
   * 到達最遠後，沒有路，才依序原路返回上一層
   * 若可以再有其他路走更深，往更深的路走
 
-* 實作：list.append(x)/list.pop()
+* 實作：
   * 起點加入stack
   * 當stack沒有清空，則：從stack取出一點並送出，將其相鄰點中，還未曾加入stack過的，加入stack
   * 直到stack清完時，則結束
@@ -35,7 +34,7 @@
 內容  | BFS | DFS | 
  :---: | :---: | :---: |
 作法 | queue | stack |
-push | 從下面加入 | 從下面加入 | 
+push | append(x) : 從下面加入 | append(x) : 從下面加入 | 
 pop | pop(0) : 從最下面取出 | pop() : 從最上面取出 | 
 小結 | 先進先出 | 後進先出 | 
 
