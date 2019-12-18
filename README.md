@@ -18,6 +18,9 @@
 * HW4(1206) :
     * [Hash Table_程式碼]
     * [Hash Table_原理_流程圖_學習歷程]
+* HW5(12013) :
+    * [BFS & DFS_程式碼]
+    * [BFS & DFS_原理_流程圖_學習歷程]
 # LearningNotes
 * week2 :
 [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
@@ -35,7 +38,12 @@
 [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
 * week9 :
 [Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-
+* week10 :
+[Hash Table]
+* week11 :
+[Red Black Tree]
+* week12、13 : 
+[BFS_DFS]
 
 ## 何謂演算法?
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
