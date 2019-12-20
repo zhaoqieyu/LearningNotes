@@ -1,6 +1,27 @@
 # 108_1 資料結構與演算法
 >06170106趙緁愉
 
+## 何謂演算法?
+>把每個值拆成細項步驟，估計花多少時間能夠消化完畢
+
+## 如何debug?
+  >spyder-debugmode :
+  
+      Step1. 把print放在想知道的地方             
+      
+      Step2. 刪掉可能錯的
+    
+      Step3. 手寫設Breakpoint，看看print出來的跟手寫的一不一樣
+   
+   `step()` : 直接跳到下一個
+   
+   `step in()` : 跳到同一個的下一行
+   
+   >visual studio code :
+   
+   心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
+
+
 # Homework
 * HW1(1018) :
     * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
@@ -21,6 +42,7 @@
 * HW5(12013) :
     * [BFS & DFS_程式碼]
     * [BFS & DFS_原理_流程圖_學習歷程]
+    
 # LearningNotes
 * week2 :
 [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
@@ -45,23 +67,3 @@
 [Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week14 :
 [Minimum Spanning Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree)
-
-## 何謂演算法?
->把每個值拆成細項步驟，估計花多少時間能夠消化完畢
-
-## 如何debug?
-  >spyder-debugmode :
-  
-      Step1. 把print放在想知道的地方             
-      
-      Step2. 刪掉可能錯的
-    
-      Step3. 手寫設Breakpoint，看看print出來的跟手寫的一不一樣
-   
-   `step()` : 直接跳到下一個
-   
-   `step in()` : 跳到同一個的下一行
-   
-   >visual studio code :
-   
-   心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
