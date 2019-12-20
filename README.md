@@ -42,7 +42,7 @@
 [Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
 [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
 * week12、13 : 
-[Breadth-First Search_Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
+[Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week14 :
 [Minimum Spanning Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree)
 
