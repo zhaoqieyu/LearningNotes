@@ -5,7 +5,7 @@
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
 
 ## 如何debug?
-  >spyder-debugmode :
+* spyder-debugmode :
   
       Step1. 把print放在想知道的地方             
       
@@ -17,7 +17,7 @@
    
    `step in()` : 跳到同一個的下一行
    
-   >visual studio code :
+* visual studio code :
    
    心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
 
