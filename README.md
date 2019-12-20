@@ -36,14 +36,18 @@
 [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
 * week8 :
 [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
-* week9 :
-[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
 * week10 :
-[Hash Table]
+[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
 * week11 :
+[Hash Table]
+(https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
 [Red Black Tree]
+(https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
 * week12、13 : 
-[BFS_DFS]
+[Breadth-First Search_Depth-First Search]
+(https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
+* week14 :
+[Minimum Spanning Tree]
 
 ## 何謂演算法?
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
