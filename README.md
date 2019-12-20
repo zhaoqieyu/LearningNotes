@@ -40,8 +40,8 @@
     * [Hash Table_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW4/hash_table_06170106.py)
     * [Hash Table_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW4/hash_table_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 * HW5(12013) :
-    * [BFS & DFS_程式碼]
-    * [BFS & DFS_原理_流程圖_學習歷程]
+    * [BFS & DFS_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_06170106.py)
+    * [BFS & DFS_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_DFS_%E5%8E%9F%E7%90%86%26%E6%AF%94%E8%BC%83_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
     
 # LearningNotes
 * week2 :
