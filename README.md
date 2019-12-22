@@ -44,7 +44,7 @@
     * [BFS & DFS_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_DFS_%E5%8E%9F%E7%90%86%26%E6%AF%94%E8%BC%83_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 * HW5(12013) :
     * [Dijkstra & Kruskal 程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW6/Dijkstra_06170106.py)
-    * [Dijkstra & Kruskal_原理_流程圖_學習歷程]()
+    * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
 # LearningNotes
 * week2_Linked List:
