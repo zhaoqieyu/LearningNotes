@@ -49,25 +49,38 @@
 # LearningNotes
 * week2_Linked List:
   * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
-  * [LeetCode_707.Design Linked List]
-* week3 :
-[Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
-* week4 :
-[Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
-* week5 :
-[Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
-* week6 :
-[Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
-* week7 :
-[Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
-* week8 :
-[Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
-* week10 :
-[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-* week11 :
-[Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
-[Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
-* week12、13 : 
-[Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
-* week14、15 :
-[Minimum Spanning Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree)
+  * [LeetCode : 707.Design Linked List]
+* week3_Stack & Queue :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
+  * [LeetCode : ]
+* week4_Insertion Sort :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
+  * [LeetCode : ]
+* week5_Quick Sort :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
+  * [LeetCode : ]
+* week6_Heap Sort :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
+  * [LeetCode : ]
+* week7_Merge Sort :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
+  * [LeetCode : ]
+* week8_Binary Tree :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
+  * [LeetCode : ]
+* week10_Binary Search Tree :
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
+  * [LeetCode : ]
+* week11_Red Black Tree & Hash Table :
+  * Red Black Tree
+     * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
+     * [LeetCode : ]
+  * Hash Table
+     * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
+     * [LeetCode : ]
+* week12、13_Breadth-First Search & Depth-First Search : 
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
+  * [LeetCode : ]
+* week14、15_Minimum Spanning Tree ( Dijkstra & Kruskal ) : 
+  * [上課筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree)
+  * [LeetCode : ]
