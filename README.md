@@ -47,17 +47,17 @@
     * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
 # LearningNotes
-* week2_Linked List:(https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
-* week3_Stack & Queue :(https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
-* week4_Insertion Sort :(https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
-* week5_Quick Sort :(https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
-* week6_Heap Sort :(https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
-* week7_Merge Sort :(https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
-* week8_Binary Tree :(https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
-* week10_Binary Search Tree :(https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-* week11_Red Black Tree & Hash Table :
+* week2 : [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
+* week3 : [Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
+* week4 : [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
+* week5 : [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
+* week6 : [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
+* week7 : [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
+* week8 : [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
+* week10 :[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
+* week11 : [Red Black Tree & Hash Table]
   * Red Black Tree(https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
   * Hash Table(https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
-* week12、13_Breadth-First Search & Depth-First Search :(https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
-* week14_Minimum Spanning Tree ( Kruskal ) :(https://github.com/zhaoqieyu/LearningNotes/blob/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20)/README.md)
-* week15_Shortest Path ( Dijkstra ) : (https://github.com/zhaoqieyu/LearningNotes/blob/master/13_Shortest%20Path%20(%20Dijkstra%20)/%20README.md)
+* week12、13 : [Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
+* week14 : [Minimum Spanning Tree ( Kruskal )](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20))
+* week15 : [Shortest Path ( Dijkstra )](https://github.com/zhaoqieyu/LearningNotes/tree/master/13_Shortest%20Path%20(%20Dijkstra%20))
