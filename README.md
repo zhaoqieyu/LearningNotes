@@ -55,9 +55,8 @@
 * week7 : [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
 * week8 : [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
 * week10 :[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-* week11 : [Red Black Tree & Hash Table]
-  * Red Black Tree(https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
-  * Hash Table(https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
+* week11 : [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
+* week11 : [Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
 * week12、13 : [Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week14 : [Minimum Spanning Tree ( Kruskal )](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20))
 * week15 : [Shortest Path ( Dijkstra )](https://github.com/zhaoqieyu/LearningNotes/tree/master/13_Shortest%20Path%20(%20Dijkstra%20))
