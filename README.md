@@ -1,6 +1,8 @@
 # 108_1 資料結構與演算法
 >06170106趙緁愉
 
+## 自我介紹
+
 ## 何謂演算法?
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
 
@@ -62,3 +64,5 @@
 * week15 : [Shortest Path ( Dijkstra )](https://github.com/zhaoqieyu/LearningNotes/tree/master/13_Shortest%20Path%20(%20Dijkstra%20))
 
 # Leetcode
+
+## 本課程的心得
