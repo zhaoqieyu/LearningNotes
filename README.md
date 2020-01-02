@@ -24,7 +24,7 @@
    心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
 
 
-# 課程內容
+# Homework
 * HW1 : 
     * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
     * [quick_sort_流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
@@ -49,7 +49,7 @@
     * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
     
-# LearningNotes
+# 課程內容
 * week1 : 課程介紹
 * week2 : [Linked List]
 * week3 : [Stack & Queue]
