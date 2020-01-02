@@ -49,6 +49,7 @@
     * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
 # LearningNotes
+* week1
 * week2 : [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
 * week3 : [Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
 * week4 : [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
@@ -62,6 +63,9 @@
 * week12、13 : [Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week14 : [Minimum Spanning Tree ( Kruskal )](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20))
 * week15 : [Shortest Path ( Dijkstra )](https://github.com/zhaoqieyu/LearningNotes/tree/master/13_Shortest%20Path%20(%20Dijkstra%20))
+* week16
+* week17
+* week18
 
 # Leetcode
 
