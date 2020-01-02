@@ -49,7 +49,7 @@
     * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
 # LearningNotes
-* week1 : [課程介紹]
+* week1 : 課程介紹
 * week2 : [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
 * week3 : [Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
 * week4 : [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
