@@ -50,20 +50,20 @@
     
 # LearningNotes
 * week1 : 課程介紹
-* week2 : [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
-* week3 : [Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
-* week4 : [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
-* week5 : [Quick Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/04_Quick%20Sort)
-* week6 : [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
-* week7 : [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
-* week8 : [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
+* week2 : [Linked List]
+* week3 : [Stack & Queue]
+* week4 : [Insertion Sort]
+* week5 : [Quick Sort]
+* week6 : [Heap Sort]
+* week7 : [Merge Sort]
+* week8 : [Binary Tree]
 * week9 : 講解期末blockchain展演
-* week10 : [Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-* week11 : [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)、[Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
-* week12 : [Breadth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
-* week13 : [Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
-* week14 : [Minimum Spanning Tree ( Kruskal )](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20))
-* week15 : [Shortest Path ( Dijkstra )](https://github.com/zhaoqieyu/LearningNotes/tree/master/13_Shortest%20Path%20(%20Dijkstra%20))
+* week10 : [Binary Search Tree]
+* week11 : [Red Black Tree]、[Hash Table]
+* week12 : [Breadth-First Search]
+* week13 : [Depth-First Search]
+* week14 : [Minimum Spanning Tree ( Kruskal )]
+* week15 : [Shortest Path ( Dijkstra )]
 * week16 : 期末blockchain展演
 * week17 : 沒課、期末考
 * week18 : 沒課
