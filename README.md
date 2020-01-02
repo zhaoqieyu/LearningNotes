@@ -24,8 +24,8 @@
    心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
 
 
-# Homework
-* HW1 :
+# 課程內容
+* HW1 : 
     * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
     * [quick_sort_流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
 * HW2 :
@@ -49,7 +49,7 @@
     * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
 # LearningNotes
-* week1
+* week1 : [課程介紹]
 * week2 : [Linked List](https://github.com/zhaoqieyu/LearningNotes/tree/master/01_Linked%20List)
 * week3 : [Stack & Queue](https://github.com/zhaoqieyu/LearningNotes/tree/master/02_Stack%26Queue)
 * week4 : [Insertion Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/03_Insertion%20Sort)
@@ -57,15 +57,18 @@
 * week6 : [Heap Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/05_Heap%20Sort)
 * week7 : [Merge Sort](https://github.com/zhaoqieyu/LearningNotes/tree/master/06_Merge%20Sort)
 * week8 : [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
+* week9 : 講解期末blockchain展演
 * week10 :[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-* week11 : [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
-* week11 : [Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
-* week12、13 : [Breadth-First Search & Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
+* week11 : 
+  * [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
+  * [Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
+* week12 : [Breadth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
+* week13 : [Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week14 : [Minimum Spanning Tree ( Kruskal )](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20))
 * week15 : [Shortest Path ( Dijkstra )](https://github.com/zhaoqieyu/LearningNotes/tree/master/13_Shortest%20Path%20(%20Dijkstra%20))
-* week16
-* week17
-* week18
+* week16 : 期末blockchain展演
+* week17 : 沒課、期末考
+* week18 : 沒課
 
 # Leetcode
 
