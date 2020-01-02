@@ -48,6 +48,7 @@
     * [Dijkstra & Kruskal 程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW6/Dijkstra_06170106.py)
     * [Dijkstra & Kruskal_原理_流程圖_學習歷程]
     
+    
 # LearningNotes
 * week1 : 課程介紹
 * week2 : [Linked List]
