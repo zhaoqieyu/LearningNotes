@@ -59,9 +59,7 @@
 * week8 : [Binary Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/07_Binary%20Tree)
 * week9 : 講解期末blockchain展演
 * week10 :[Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/08_Binary%20Search%20Tree)
-* week11 : 
-  * [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)
-  * [Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
+* week11 : [Red Black Tree](https://github.com/zhaoqieyu/LearningNotes/tree/master/10_Red%20Black%20Tree)、[Hash Table](https://github.com/zhaoqieyu/LearningNotes/tree/master/09_Hash%20Table)
 * week12 : [Breadth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week13 : [Depth-First Search](https://github.com/zhaoqieyu/LearningNotes/tree/master/11_BFS_DFS)
 * week14 : [Minimum Spanning Tree ( Kruskal )](https://github.com/zhaoqieyu/LearningNotes/tree/master/12_Minimum%20Spanning%20Tree%20(%20Kruskal%20))
