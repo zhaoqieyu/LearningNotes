@@ -16,5 +16,4 @@
      
      Step4. 直到沒有數字可再進行切割時停止 → 當1/2的X次方 = 1的時候停下來
 ## reference
-###### [🔗HW1_QuickSort(1018)](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
-###### [🔗流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
+http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html
