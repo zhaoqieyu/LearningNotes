@@ -103,13 +103,13 @@
     * 相關的補充資料
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
-* week11 :  
-Red Black Tree
+* week11 : 
+  * Red Black Tree
     * 上課內容概述
     * 相關的補充資料
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
 
-Hash Table
+  * Hash Table
     * 上課內容概述
     * 相關的補充資料
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
