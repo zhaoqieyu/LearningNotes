@@ -22,26 +22,38 @@
 
 
 # 🐯作業專區
-🌻HW1 : 
+
+🌻HW1  
+
 * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
 * [quick_sort_流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
-🌻HW2 :
+
+🌻HW2 
+
 * [heap_sort_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort_06170106.py)
 * [merge_sort_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_06170106.py)
 * [heap_sort_說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort_%E8%AA%AA%E6%98%8E.ipynb)
 * [merge_sort_說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_%E8%AA%AA%E6%98%8E.ipynb)
 * [heap_sort & merge_sort之比較](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort%20%26%20merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
-🌻HW3 :
+
+🌻HW3 
+
 * [Binary Search Tree_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW3/binary_search_tree_06170106.py)
 * [Binary Search Tree_功能說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW3/binary_search_tree_%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.ipynb)
 * [Binary Search Tree_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW3/binary_search_tree_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
-🌻HW4 :
+
+🌻HW4 
+
 * [Hash Table_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW4/hash_table_06170106.py)
 * [Hash Table_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW4/hash_table_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
-🌻HW5 :
+
+🌻HW5 
+
 * [BFS & DFS_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_06170106.py)
 * [BFS & DFS_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_DFS_%E5%8E%9F%E7%90%86%26%E6%AF%94%E8%BC%83_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
-🌻HW6 :
+
+🌻HW6 
+
 * [Dijkstra & Kruskal 程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW6/Dijkstra_06170106.py)
 * [Dijkstra & Kruskal_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW6/Dijkstra_Kruskal_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
     
