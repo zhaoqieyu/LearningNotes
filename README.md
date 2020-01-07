@@ -62,37 +62,37 @@
 * week3 : Stack & Queue
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
     
 * week4 : Insertion Sort
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
     
 * week5 : Quick Sort
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
     
 * week6 : Heap Sort
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
     
 * week7 : Merge Sort
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
     
 * week8 : Binary Tree
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
 * week9 : 講解期末blockchain展演、生涯問卷調查
@@ -100,43 +100,44 @@
 * week10 : Binary Search Tree
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week10_Binary%20Search%20Tree/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
-* week11 : Red Black Tree
-
-    * 上課內容概述
-    * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
-
  * week11 : Hash Table
  
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
+
+* week11 : Red Black Tree
+
+    * 上課內容概述
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Red%20Black%20Tree/README.md)
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
+
 
 * week12 : Breadth-First Search
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
     
 * week13 : Depth-First Search
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
 * week14 : Minimum Spanning Tree ( Kruskal )
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/blob/master/week14_Minimum%20Spanning%20Tree_Kruskal/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=550388)
     
 * week15 : Shortest Path ( Dijkstra )
 
     * 上課內容概述
-    * 相關的補充資料
+    * [相關的補充資料]
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
 * week16 : 期末blockchain展演
