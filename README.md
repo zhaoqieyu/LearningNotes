@@ -137,7 +137,7 @@
 * week15 : Shortest Path ( Dijkstra )
 
     * 上課內容概述
-    * 相關的補充資料 : [自己的筆記]
+    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
 * week16 : 期末blockchain展演
