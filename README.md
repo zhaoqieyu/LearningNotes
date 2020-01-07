@@ -5,24 +5,22 @@
 >把每個值拆成細項步驟，估計花多少時間能夠消化完畢
 
 ## 如何debug?
-* spyder-debugmode :
-  
       Step1. 把print放在想知道的地方             
       
       Step2. 刪掉可能錯的
     
       Step3. 手寫設Breakpoint，看看print出來的跟手寫的一不一樣
-   
+* 語法 :    
    `step()` : 直接跳到下一個
    
    `step in()` : 跳到同一個的下一行
    
-* visual studio code :
+* 使用老師推薦的 spyder-debugmode 的心得 : 一開始對於 breakpoint 要設在哪相當困惑，都是憑感覺設的，所以每此都無法正確地找到錯在哪，之後多練習幾次，越來越熟練後，就可以更快速更準確的除錯了~
    
-   心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
+* 使用自己找的 visual studio code 的心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
 
 
-# Homework
+# 作業專區
 * HW1 : 
     * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
     * [quick_sort_流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
@@ -69,5 +67,5 @@
 
 # Leetcode
 
-## 本課程的心得
+# 本課程的心得
 在上這門課之前，其實我的程式基礎不是很好，最初的一個月老師說可以先去刷codesignal，我也有刷了一點，想說好好學習，把之前的基礎補起來，但是後來每次寫作業的時候才發現其實自己缺的還是很多很多，感覺怎麼補都補不完，寫得很辛苦、壓力很大，總是剛寫完一次作業，下一次作業又來了，所以剛開始甚至還寫到哭，一個學期的時間至少在這個過程教會了我如何堅持以及如何有效率地查找資料自學，期末將至，雖然我本身就不太喜歡寫程式，但經過這堂課似乎發現我好像確實不太適合也真的不喜歡這行業，希望之能夠找到自己真的的興趣，並且努力去實踐它。
