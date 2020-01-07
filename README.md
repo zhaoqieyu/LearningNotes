@@ -142,7 +142,7 @@
     
 * week16 : 期末blockchain展演
     
-    * [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
+    * 上課內容概述 : [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
 
     * 心得 : 
     
