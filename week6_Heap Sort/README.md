@@ -41,3 +41,5 @@
      
 ## reference
 http://notepad.yehyeh.net/Content/Algorithm/Sort/Heap/Heap.php
+
+https://algorithm.yuanbin.me/zh-tw/basics_data_structure/heap.html
