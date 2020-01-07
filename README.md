@@ -60,7 +60,9 @@
     
 # 🐯課程內容
 
-* 🌼week1 : 課程介紹
+🌼week1
+
+* 課程介紹
 
     * 上課內容概述 : 講解評分方式及 github、codesignal、Leetcode、AWS ( CS50 ) 使用方法
     * 相關的補充資料 : [github 基本語法.1](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)、[2](https://github.com/othree/markdown-syntax-zhtw)、[3](https://github.com/guodongxiaren/README)
