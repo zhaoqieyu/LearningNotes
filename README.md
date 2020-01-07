@@ -139,17 +139,17 @@
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
 * week16 : 期末blockchain展演
+    
+    * [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
 
- * [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
-
- * 心得 : 
+    * 心得 : 
     
 * week17 : 停課、期末考
-  * 出題模式
+    * 出題模式
   
     ![](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/final%20test.jpg?raw=true)
     
-* 心得 : 
+    * 心得 : 
 
 * week18 : 停課
 
