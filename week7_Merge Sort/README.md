@@ -20,4 +20,6 @@
     Step3. 重複上步驟，直到合併成一個完整的陣列 
    
 ## reference
-###### [🔗流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/merge_sort_%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+https://emn178.pixnet.net/blog/post/87965707
+
+https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F
