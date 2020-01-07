@@ -140,18 +140,18 @@
     * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
     * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
-* week16 : 期末blockchain展演
+* week16 : 期末 blockchain 展演
     
     * 上課內容概述 : [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
 
-    * 心得 : 
+    * 心得 : 看了三位同學的展演，相當的佩服，也覺得他們真的很有勇氣去挑戰這麼困難的東西，這種認真的態度真的值得學習，雖說之前對於區塊鍊有一些些簡單的觀念，但是因為知道的都只是理論，其實不太知道區塊鍊是在幹嘛，透過同學的展演，讓我更具體的認識了區塊鍊
     
 * week17 : 停課、期末考
     * 出題模式
   
     ![](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/final%20test.jpg?raw=true)
     
-    * 心得 : 
+    * 心得 : 手寫程式碼的部分，我覺得對我來說是比較難的，平常都有電腦可以讓我 debug ，突然要直接手寫，會不知道自己哪裡有錯，所以寫的比較沒有信心，但其他的每一題都是老師上課有教的內容，只要上課有認真聽，把觀念理解，其實不需要花太多時間在這方面，也是相對有把握的
 
 * week18 : 停課
 
