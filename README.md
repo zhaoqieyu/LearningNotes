@@ -24,12 +24,12 @@
 
 # 🐯作業專區
 
-🌻HW1  
+## 🌻HW1  
 
 * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
 * [quick_sort_流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
 
-🌻HW2 
+## 🌻HW2 
 
 * [heap_sort_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort_06170106.py)
 * [merge_sort_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_06170106.py)
@@ -37,23 +37,23 @@
 * [merge_sort_說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/merge_sort_%E8%AA%AA%E6%98%8E.ipynb)
 * [heap_sort & merge_sort之比較](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW2/heap_sort%20%26%20merge_sort%E4%B9%8B%E6%AF%94%E8%BC%83.md)
 
-🌻HW3 
+## 🌻HW3 
 
 * [Binary Search Tree_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW3/binary_search_tree_06170106.py)
 * [Binary Search Tree_功能說明](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW3/binary_search_tree_%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.ipynb)
 * [Binary Search Tree_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW3/binary_search_tree_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 
-🌻HW4 
+## 🌻HW4 
 
 * [Hash Table_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW4/hash_table_06170106.py)
 * [Hash Table_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW4/hash_table_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 
-🌻HW5 
+## 🌻HW5 
 
 * [BFS & DFS_程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_06170106.py)
 * [BFS & DFS_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW5/BFS_DFS_%E5%8E%9F%E7%90%86%26%E6%AF%94%E8%BC%83_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 
-🌻HW6 
+## 🌻HW6 
 
 * [Dijkstra & Kruskal 程式碼](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW6/Dijkstra_06170106.py)
 * [Dijkstra & Kruskal_原理_流程圖_學習歷程](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW6/Dijkstra_Kruskal_%E5%8E%9F%E7%90%86_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
@@ -61,113 +61,113 @@
     
 # 🐯課程內容
 
-🌼week1 : 課程介紹
+## 🌼week1 : 課程介紹
 
 * 上課內容概述 : 講解評分方式及 github、codesignal、Leetcode、AWS ( CS50 ) 使用方法
 * 相關的補充資料 : [github 基本語法.1](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)、[2](https://github.com/othree/markdown-syntax-zhtw)、[3](https://github.com/guodongxiaren/README)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=518717)
     
-🌼week2 : Linked List
+## 🌼week2 : Linked List
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
     
-🌼week3 : Stack & Queue
+## 🌼week3 : Stack & Queue
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
     
-🌼week4 : Insertion Sort
+## 🌼week4 : Insertion Sort
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
     
-🌼week5 : Quick Sort
+## 🌼week5 : Quick Sort
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
     
-🌼week6 : Heap Sort
+## 🌼week6 : Heap Sort
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
     
-🌼week7 : Merge Sort
+## 🌼week7 : Merge Sort
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
     
-🌼week8 : Binary Tree
+## 🌼week8 : Binary Tree
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
-🌼week9 : 講解期末blockchain展演、生涯問卷調查
+## 🌼week9 : 講解期末blockchain展演、生涯問卷調查
     
-🌼week10 : Binary Search Tree
+## 🌼week10 : Binary Search Tree
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week10_Binary%20Search%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
-🌼week11-1 : Hash Table
+## 🌼week11-1 : Hash Table
  
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
 
-🌼week11-2 : Red Black Tree
+## 🌼week11-2 : Red Black Tree
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Red%20Black%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
 
 
-🌼week12 : Breadth-First Search
+## 🌼week12 : Breadth-First Search
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
     
-🌼week13 : Depth-First Search
+## 🌼week13 : Depth-First Search
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
-🌼week14 : Minimum Spanning Tree ( Kruskal )
+## 🌼week14 : Minimum Spanning Tree ( Kruskal )
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week14_Minimum%20Spanning%20Tree_Kruskal/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=550388)
     
-🌼week15 : Shortest Path ( Dijkstra )
+## 🌼week15 : Shortest Path ( Dijkstra )
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
-🌼week16 : 期末 blockchain 展演
+## 🌼week16 : 期末 blockchain 展演
     
 * 上課內容概述 : [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
 
 * 心得 : 看了三位同學的展演，相當的佩服，也覺得他們真的很有勇氣去挑戰這麼困難的東西，這種認真的態度真的值得學習，雖說之前對於區塊鍊有一些些簡單的觀念，但是因為知道的都只是理論，其實不太知道區塊鍊是在幹嘛，透過同學的展演，讓我更具體的認識了區塊鍊
     
-🌼week17 : 停課、期末考
+## 🌼week17 : 停課、期末考
 * 出題模式
   
     ![](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/final%20test.jpg?raw=true)
     
 * 心得 : 手寫程式碼的部分，我覺得對我來說是比較難的，平常都有電腦可以讓我 debug ，突然要直接手寫，會不知道自己哪裡有錯，所以寫的比較沒有信心，但其他的每一題都是老師上課有教的內容，只要上課有認真聽，把觀念理解，其實不需要花太多時間在這方面，也是相對有把握的
 
-🌼week18 : 停課
+## 🌼week18 : 停課
 
 # 🐯Codesignal
 
