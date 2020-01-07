@@ -116,13 +116,13 @@
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week10_Binary%20Search%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
-🌼week11 : Hash Table
+🌼week11-1 : Hash Table
  
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
 
-🌼week11 : Red Black Tree
+🌼week11-2 : Red Black Tree
 
 * 上課內容概述
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Red%20Black%20Tree/README.md)
