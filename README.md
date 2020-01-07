@@ -60,19 +60,17 @@
     
 # 🐯課程內容
 
-🌼week1
-* 課程介紹
+🌼week1 : 課程介紹
 
-    * 上課內容概述 : 講解評分方式及 github、codesignal、Leetcode、AWS ( CS50 ) 使用方法
-    * 相關的補充資料 : [github 基本語法.1](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)、[2](https://github.com/othree/markdown-syntax-zhtw)、[3](https://github.com/guodongxiaren/README)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=518717)
+* 上課內容概述 : 講解評分方式及 github、codesignal、Leetcode、AWS ( CS50 ) 使用方法
+* 相關的補充資料 : [github 基本語法.1](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)、[2](https://github.com/othree/markdown-syntax-zhtw)、[3](https://github.com/guodongxiaren/README)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=518717)
     
-🌼week2
-* Linked List
+🌼week2 : Linked List
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
     
 🌼week3 
 * Stack & Queue
