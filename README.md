@@ -51,49 +51,49 @@
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=518717)
     
 * week2 : Linked List
 
     * 上課內容概述
-    * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * [相關的補充資料](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
     
 * week3 : Stack & Queue
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
     
 * week4 : Insertion Sort
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
     
 * week5 : Quick Sort
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
     
 * week6 : Heap Sort
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
     
 * week7 : Merge Sort
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
     
 * week8 : Binary Tree
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
 * week9 : 講解期末blockchain展演、生涯問卷調查
     
@@ -101,43 +101,49 @@
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
-* week11 : Red Black Tree、Hash Table
-
+* week11 :  
+Red Black Tree
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
-    
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
+
+Hash Table
+    * 上課內容概述
+    * 相關的補充資料
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
+
 * week12 : Breadth-First Search
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
     
 * week13 : Depth-First Search
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
 * week14 : Minimum Spanning Tree ( Kruskal )
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=550388)
     
 * week15 : Shortest Path ( Dijkstra )
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
 * week16 : 期末blockchain展演
+[同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
 
     * 上課內容概述
     * 相關的補充資料
-    * 連結該週課程重要內容或檔案的超連結
+    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT]
     
 * week17 : 停課、期末考
 
