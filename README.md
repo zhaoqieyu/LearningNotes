@@ -72,113 +72,99 @@
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
     
-🌼week3 
-* Stack & Queue
+🌼week3 : Stack & Queue
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
     
-* 🌼week4 : Insertion Sort
+🌼week4 : Insertion Sort
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
     
-🌼week5 
-* Quick Sort
+🌼week5 : Quick Sort
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
     
-🌼week6  
-* Heap Sort
+🌼week6 : Heap Sort
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
     
-🌼week7 
-* Merge Sort
+🌼week7 : Merge Sort
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
     
-🌼week8 
-* Binary Tree
+🌼week8 : Binary Tree
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
-🌼week9 
-* 講解期末blockchain展演、生涯問卷調查
+🌼week9 : 講解期末blockchain展演、生涯問卷調查
     
-🌼week10 
-* Binary Search Tree
+🌼week10 : Binary Search Tree
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week10_Binary%20Search%20Tree/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week10_Binary%20Search%20Tree/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
- 🌼week11 
- * Hash Table
+🌼week11 : Hash Table
  
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
 
-* Red Black Tree
+🌼week11 : Red Black Tree
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Red%20Black%20Tree/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Red%20Black%20Tree/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
 
 
-🌼week12 
-* Breadth-First Search
+🌼week12 : Breadth-First Search
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
     
-🌼week13 
-* Depth-First Search
+🌼week13 : Depth-First Search
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
-🌼week14 
-* Minimum Spanning Tree ( Kruskal )
+🌼week14 : Minimum Spanning Tree ( Kruskal )
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week14_Minimum%20Spanning%20Tree_Kruskal/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=550388)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week14_Minimum%20Spanning%20Tree_Kruskal/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=550388)
     
-🌼week15 
-* Shortest Path ( Dijkstra )
+🌼week15 : Shortest Path ( Dijkstra )
 
-    * 上課內容概述
-    * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
-    * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
+* 上課內容概述
+* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
+* 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
-🌼week16 
-* 期末 blockchain 展演
+🌼week16 : 期末 blockchain 展演
     
-    * 上課內容概述 : [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
+* 上課內容概述 : [同學區塊鏈專案作品網址](https://github.com/JetVayne/BCMB?fbclid=IwAR1-IJpN5KTa6tpS4J4SOIDBdeSf3u4Dj8UzepC619pbwYcn72KAlcGNrPc)
 
-    * 心得 : 看了三位同學的展演，相當的佩服，也覺得他們真的很有勇氣去挑戰這麼困難的東西，這種認真的態度真的值得學習，雖說之前對於區塊鍊有一些些簡單的觀念，但是因為知道的都只是理論，其實不太知道區塊鍊是在幹嘛，透過同學的展演，讓我更具體的認識了區塊鍊
+* 心得 : 看了三位同學的展演，相當的佩服，也覺得他們真的很有勇氣去挑戰這麼困難的東西，這種認真的態度真的值得學習，雖說之前對於區塊鍊有一些些簡單的觀念，但是因為知道的都只是理論，其實不太知道區塊鍊是在幹嘛，透過同學的展演，讓我更具體的認識了區塊鍊
     
-🌼week17 
-* 停課、期末考
-    * 出題模式
+🌼week17 : 停課、期末考
+* 出題模式
   
     ![](https://github.com/zhaoqieyu/LearningNotes/blob/master/pictures/final%20test.jpg?raw=true)
     
-    * 心得 : 手寫程式碼的部分，我覺得對我來說是比較難的，平常都有電腦可以讓我 debug ，突然要直接手寫，會不知道自己哪裡有錯，所以寫的比較沒有信心，但其他的每一題都是老師上課有教的內容，只要上課有認真聽，把觀念理解，其實不需要花太多時間在這方面，也是相對有把握的
+* 心得 : 手寫程式碼的部分，我覺得對我來說是比較難的，平常都有電腦可以讓我 debug ，突然要直接手寫，會不知道自己哪裡有錯，所以寫的比較沒有信心，但其他的每一題都是老師上課有教的內容，只要上課有認真聽，把觀念理解，其實不需要花太多時間在這方面，也是相對有把握的
 
 🌼week18 : 停課
 
