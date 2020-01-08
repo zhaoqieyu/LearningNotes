@@ -96,10 +96,9 @@
   * 排序方式是先選定一個數為基準點(pivot)，且通常為中間值，再把數列分一半，從左到右的數字依序和此基準點(pivot)比大小，若比基準點小，則放左邊，較大，則放右邊，接著左右兩邊的陣列也使用相同的規則選基準點，並重複上述
  步驟繼續比大小
   * 時間複雜度
-  
-         * Best Case：Ο(n log n)
-         * Worst Case：Ο(n^2)　
-         * Average Case：Ο(n log n)
+    * Best Case：Ο(n log n)
+    * Worst Case：Ο(n^2)　
+    * Average Case：Ο(n log n)
          
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
