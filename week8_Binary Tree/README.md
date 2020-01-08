@@ -18,3 +18,5 @@
      
 ## reference
 http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html
+
+http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html
