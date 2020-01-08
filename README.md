@@ -90,7 +90,9 @@
     
 🌼week5 : Quick Sort
 
-* 上課內容概述
+* 上課內容概述 :
+  * 快速排序法，是普遍被認為最快的排序演算法!主要是針對一段尚未排序的數列做排序，但也有可能因為陣列本身排序不適合此種排序法，而需要O(n^2)時間
+  * 排序方式是先選定一個數為基準點(pivot)，且通常為中間值，再把數列分一半，從左到右的數字依序和此基準點(pivot)比大小，若比基準點小，則放左邊，較大，則放右邊，接著左右兩邊的陣列也使用相同的規則選基準點，並重複上述步驟繼續比大小
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
     
