@@ -211,7 +211,10 @@
 
 * 上課內容概述 :
 
-
+  * Queue
+  * 有兩個 Queue 做紀錄 ( 假設為state1、state2 ) ，再進行比對，其中 state1 可以想像成一個暫存的待完成清單， state2 可以想像成最終結果
+  * 時間複雜度
+    * Average Case：Ο(V+E)
 
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
@@ -220,8 +223,11 @@
 
 * 上課內容概述 :　
 
-
-
+  * Stack
+  * push 的時候一次 push 完，pop的時候去最後一筆
+  * 時間複雜度
+    * Average Case：Ο(V+E)
+    
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
@@ -229,6 +235,11 @@
 
 * 上課內容概述 : 
 
+* Kruskal 演算法用於解決最小生成樹 ( Minimum Spanning Tree ) 的問題
+* 限制:
+  * 該生成樹有連通
+  * 該生成樹不能有circle
+* 做法 : 先依據題目，把圖上所有邊，依照權重大小，由小到大排序，再畫出 v 和 p 的關係表，用來記錄點現在走到哪裡，以及parent現在在哪，並把把留下的邊及端點連出來，直到 邊 = 點 -1 時，停止，最後計算總權重
 
 
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week14_Minimum%20Spanning%20Tree_Kruskal/README.md)
@@ -238,6 +249,11 @@
 
 * 上課內容概述 : 
 
+* Dijkstra 演算法解決最短路徑 ( Shortest Path ) 的問題 : 從起點到終點，邊權重總和最小的路徑
+* 限制:
+  * 該路徑有連通
+  * 該路徑不能有circle
+  * 做法 : 依據題目，先畫出一張具有橫軸與縱的表格圖，用來記錄點到點之間的距離，每次判斷出來路徑權重不能大於上一次判斷路徑權重，直到 邊 = 點 -1 時，停止，最後計算總權重
 
 
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
