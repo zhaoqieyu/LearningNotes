@@ -149,7 +149,6 @@
 🌼week8 : Binary Tree
 
 * 上課內容概述 : 一個節點只能有兩個子節點
-
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
