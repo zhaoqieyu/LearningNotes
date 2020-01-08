@@ -148,9 +148,7 @@
     
 🌼week8 : Binary Tree
 
-* 上課內容概述 : 
-  
-  * 一個節點只能有兩個子節點
+* 上課內容概述 : 一個節點只能有兩個子節點
 
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
@@ -196,8 +194,10 @@
 🌼week11-2 : Red Black Tree
 
 * 上課內容概述 : 
+  
+  * 是一種自平衡二元搜尋樹，彌補BST無法平衡的問題，也就是說，有時候BST可能會，出現極左偏或極右偏的狀況，這時就需要紅黑樹透過左旋轉或右旋轉來衡
 
- * 時間複雜度
+  * 時間複雜度
     * space
       * Best Case：Ο(n)
       * Worst Case：Ο(n)　
@@ -220,7 +220,10 @@
     
 🌼week13 : Depth-First Search
 
-* 上課內容概述　：　
+* 上課內容概述 :　
+
+
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
