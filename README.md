@@ -182,13 +182,13 @@
  
 * 上課內容概述 : 
 
-* Hash Function ( 雜湊函數 )
-  * 類似於一台轉換器，丟輸入進去就會產生一個輸出
-  * 將每個鍵值 (key) 對應到一個固定的索引號 (index)，透過編碼規則，將所有字串可以轉成單一編號(唯一值) ，也就是說將輸入的資料(key)，透過一樣的規則固定資料的格式，使得資料量變小，輸出的值稱為雜湊值（hash values)
+  * Hash Function ( 雜湊函數 )
+    * 類似於一台轉換器，丟輸入進去就會產生一個輸出
+    * 將每個鍵值 (key) 對應到一個固定的索引號 (index)，透過編碼規則，將所有字串可以轉成單一編號(唯一值) ，也就是說將輸入的資料(key)，透過一樣的規則固定資料的格式，使得資料量變小，輸出的值稱為雜湊值（hash values)
 
-* Hash Table ( 雜湊表 )
-  * 雜湊函式的一個主要應用
-  * 透過雜湊函數將給定的鍵值 (key) 對應到一個索引號 (index) 後存放到對應的桶子裡 (bucket)
+  * Hash Table ( 雜湊表 )
+    * 雜湊函式的一個主要應用
+    * 透過雜湊函數將給定的鍵值 (key) 對應到一個索引號 (index) 後存放到對應的桶子裡 (bucket)
 
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
