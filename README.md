@@ -24,7 +24,7 @@
 
 # 🍇作業專區
 
-## 🌼HW1  
+🌼HW1  
 
 * [quick_sort_程式碼](https://nbviewer.jupyter.org/github/zhaoqieyu/LearningNotes/blob/master/HW1/HW1_QuickSort.ipynb)
 * [quick_sort_流程圖](https://github.com/zhaoqieyu/LearningNotes/blob/master/HW1/%E6%B5%81%E7%A8%8B%E5%9C%96_Quick%20Sort.jpg)
@@ -61,7 +61,7 @@
     
 # 🍇課程內容
 
-## 🌼week1 : 課程介紹
+🌼week1 : 課程介紹
 
 * 上課內容概述 : 講解評分方式及 github、codesignal、Leetcode、AWS ( CS50 ) 使用方法
 * 相關的補充資料 : [github 基本語法.1](https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)、[2](https://github.com/othree/markdown-syntax-zhtw)、[3](https://github.com/guodongxiaren/README)
