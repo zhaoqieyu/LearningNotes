@@ -148,7 +148,10 @@
     
 🌼week8 : Binary Tree
 
-* 上課內容概述
+* 上課內容概述 : 
+  
+  * 一個節點只能有兩個子節點
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
@@ -156,44 +159,86 @@
     
 🌼week10 : Binary Search Tree
 
-* 上課內容概述
+* 上課內容概述 : 
+
+  *  除了包含二元樹的定義外，二元搜索樹還有額外的定義
+     * 若左子樹非空值，則左子樹的所有節點的值小於此節點的值
+     * 若右子樹非空值，則右子樹的所有節點的值大於此節點的值
+     * 左右子樹也都是二元搜索樹
+  * 功能 : 插入、刪除、查詢、修改
+  * 時間複雜度
+    * space
+      * Best Case：Ο(n)
+      * Worst Case：Ο(n)　
+    * 新增、刪除、搜尋
+      * Best Case：Ο(log n)
+      * Worst Case：Ο(n)
+    
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week10_Binary%20Search%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542107)
     
 🌼week11-1 : Hash Table
  
-* 上課內容概述
+* 上課內容概述 : 
+
+* Hash Function ( 雜湊函數 )
+  * 類似於一台轉換器，丟輸入進去就會產生一個輸出
+  * 將每個鍵值 (key) 對應到一個固定的索引號 (index)，透過編碼規則，將所有字串可以轉成單一編號(唯一值) ，也就是說將輸入的資料(key)，透過一樣的規則固定資料的格式，使得資料量變小，輸出的值稱為雜湊值（hash values)
+
+* Hash Table ( 雜湊表 )
+  * 雜湊函式的一個主要應用
+  * 透過雜湊函數將給定的鍵值 (key) 對應到一個索引號 (index) 後存放到對應的桶子裡 (bucket)
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Hash%20Table/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=544323)
 
 🌼week11-2 : Red Black Tree
 
-* 上課內容概述
+* 上課內容概述 : 
+
+ * 時間複雜度
+    * space
+      * Best Case：Ο(n)
+      * Worst Case：Ο(n)　
+    * 新增、刪除、搜尋
+      * Best Case：Ο(log n)
+      * Worst Case：Ο(log n)
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week11_Red%20Black%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=542952)
 
 
 🌼week12 : Breadth-First Search
 
-* 上課內容概述
+* 上課內容概述 :
+
+
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=547569)
     
 🌼week13 : Depth-First Search
 
-* 上課內容概述
+* 上課內容概述　：　
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week12%E3%80%8113_BFS_DFS/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=549479)
     
 🌼week14 : Minimum Spanning Tree ( Kruskal )
 
-* 上課內容概述
+* 上課內容概述 : 
+
+
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week14_Minimum%20Spanning%20Tree_Kruskal/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=550388)
     
 🌼week15 : Shortest Path ( Dijkstra )
 
-* 上課內容概述
+* 上課內容概述 : 
+
+
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week15_Shortest%20Path_Dijkstra/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=553527)
     
