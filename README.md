@@ -72,19 +72,35 @@
 
 🌼week2 : Linked List
 
-* 上課內容概述
+* 上課內容概述 : 
+
+  * 是常見的一種資料結構，不需使用連續記憶體空間，且能夠容易的修改指向
+  * 功能 : 新增、刪除、查詢
+  * 實作出其他的資料結構，例如 Stack 和 Queue
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
     
 🌼week3 : Stack & Queue
 
-* 上課內容概述
+* 上課內容概述 :
+
+  * stack堆疊 : 先進先出
+  * queue佇列 : 後進先出
+
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
     
 🌼week4 : Insertion Sort
 
-* 上課內容概述
+* 上課內容概述 : 
+
+  * 把觀察值「往前面」和「其他所有的值依次比較」
+  * 時間複雜度
+    * Best Case：Ο(n)
+    * Worst Case：Ο(n^2)　
+    * Average Case：Ο(n^2)
+      
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
     
@@ -105,13 +121,28 @@
     
 🌼week6 : Heap Sort
 
-* 上課內容概述
+* 上課內容概述 : 
+
+  * linked list的變形
+  * tree的special case
+  * 時間複雜度
+    * Best Case：Ο(n log n)
+    * Worst Case：Ο(n log n)　
+    * Average Case：Ο(n log n)
+    
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
     
 🌼week7 : Merge Sort
 
-* 上課內容概述
+* 上課內容概述 : 
+
+  * 先將陣列平均分堆，直到只剩下一個元素，再進行同時排序排序
+  * 時間複雜度
+    * Best Case：Ο(n log n)
+    * Worst Case：Ο(n log n)　
+    * Average Case：Ο(n log n)
+    
 * 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
     
