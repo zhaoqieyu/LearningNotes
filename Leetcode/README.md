@@ -2,10 +2,10 @@
 
 ## 1_Two Sum
 
-## 9. Palindrome Number
+## 9_Palindrome Number
 
-## 27. Remove Element
+## 27_Remove Element
 
-## 283. Move Zeroes
+## 283_Move Zeroes
 
-## 200_ Remove Linked List Elements
+## 200_Remove Linked List Elements
