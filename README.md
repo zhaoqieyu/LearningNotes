@@ -276,8 +276,14 @@
 ## 🌼**week18 : 停課**
 
 # 🐠Codesignal
+* 練習
+[01_add](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/01_add.py)
 
+[02_centuryFromYear](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/02_centuryFromYear.py)
+
+[03_checkPalindrome](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/03_checkPalindrome.py)
 # 🐠Leetcode
+* 練習
 [27_Remove Element](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/27_%20Remove%20Element_06170106.py)
 
 [283_Move Zeroes](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/283_%20Move%20Zeroes_06170106.py)
