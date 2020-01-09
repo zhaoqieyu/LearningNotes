@@ -16,4 +16,4 @@ class Solution:
         elif root.val < val: 
             return self.searchBST(root.right, val)
 
-#reference : https://blog.csdn.net/fuxuemingzhu/article/details/82385503 
+#reference : https://blog.csdn.net/fuxuemingzhu/article/details/81015754
