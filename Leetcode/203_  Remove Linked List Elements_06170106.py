@@ -13,3 +13,5 @@ class Solution:
                 current = current.next
             head = head.next
         return answer.next
+
+#reference :　https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/203md.html
