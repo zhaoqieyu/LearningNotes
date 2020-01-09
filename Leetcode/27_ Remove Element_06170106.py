@@ -6,3 +6,5 @@ class Solution:
                 nums[i]= nums[j]
                 i += 1
         return (i)
+    
+ #reference : https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/27md.html
