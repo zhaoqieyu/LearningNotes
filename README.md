@@ -280,11 +280,11 @@
 
 * 練習
 
-　* [01_add](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/01_add.py)
+  * [01_add](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/01_add.py)
 
-　* [02_centuryFromYear](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/02_centuryFromYear.py)
+  * [02_centuryFromYear](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/02_centuryFromYear.py)
 
-　* [03_checkPalindrome](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/03_checkPalindrome.py)
+  * [03_checkPalindrome](https://github.com/zhaoqieyu/LearningNotes/blob/master/Codesignal/03_checkPalindrome.py)
  
 # 🐠Leetcode
 * [README](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/README.md)
