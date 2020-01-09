@@ -78,7 +78,7 @@
   * 功能 : 新增、刪除、查詢
   * 實作出其他的資料結構，例如 Stack 和 Queue
 
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/tree/master/week2_Linked%20List)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=526056)
     
 ## 🌼**week3 : Stack & Queue**
@@ -88,7 +88,7 @@
   * stack堆疊 : 先進先出
   * queue佇列 : 後進先出
 
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week3_Stack%26Queue/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=528601)
     
 ## 🌼**week4 : Insertion Sort**
@@ -101,7 +101,7 @@
     * Worst Case：Ο(n^2)　
     * Average Case：Ο(n^2)
       
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week4_Insertion%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=529799)
     
 ## 🌼**week5 : Quick Sort**
@@ -116,7 +116,7 @@
     * Worst Case：Ο(n^2)　
     * Average Case：Ο(n log n)
          
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week5_Quick%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT.1](http://isee.scu.edu.tw/mod/url/view.php?id=532218)、[2](http://isee.scu.edu.tw/mod/url/view.php?id=531868)
     
 ## 🌼**week6 : Heap Sort**
@@ -130,7 +130,7 @@
     * Worst Case：Ο(n log n)　
     * Average Case：Ο(n log n)
     
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week6_Heap%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=534763)
     
 ## 🌼**week7 : Merge Sort**
@@ -143,13 +143,13 @@
     * Worst Case：Ο(n log n)　
     * Average Case：Ο(n log n)
     
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week7_Merge%20Sort/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=537782)
     
 ## 🌼**week8 : Binary Tree**
 
 * 上課內容概述 : 一個節點只能有兩個子節點
-* 相關的補充資料 : [自己的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
+* 相關的補充資料 : [我的筆記](https://github.com/zhaoqieyu/LearningNotes/blob/master/week8_Binary%20Tree/README.md)
 * 連結該週課程重要內容或檔案的超連結 : [老師上課PPT](http://isee.scu.edu.tw/mod/url/view.php?id=539455)
     
 ## 🌼**week9 : 講解期末blockchain展演、生涯問卷調查**
