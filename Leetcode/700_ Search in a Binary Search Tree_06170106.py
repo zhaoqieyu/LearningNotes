@@ -1,10 +1,4 @@
 # Definition for a binary tree node.
-#題目 : 
-給定二叉搜索樹（BST）的根節點和一個值。
-您需要在BST中找到該節點的值等於給定值的節點。
-返回以該節點為根的子樹。
-如果該節點不存在，則應返回NULL。
-
 class TreeNode:
     def __init__(self, x):
         self.val = x
