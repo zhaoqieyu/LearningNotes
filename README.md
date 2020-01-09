@@ -278,7 +278,15 @@
 # 🐠Codesignal
 
 # 🐠Leetcode
+[27_Remove Element](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/27_%20Remove%20Element_06170106.py)
 
+[283_Move Zeroes](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/283_%20Move%20Zeroes_06170106.py)
+
+[203_Remove Linked List Elements](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/203_%20%20Remove%20Linked%20List%20Elements_06170106.py)
+
+[700_ Search in a Binary Search](https://github.com/zhaoqieyu/LearningNotes/blob/master/Leetcode/700_%20Search%20in%20a%20Binary%20Search%20Tree_06170106.py)
+
+[701_ Insert into a Binary Search Tree](https://github.com/zhaoqieyu/LearningNotes/edit/master/Leetcode/701_%20Insert%20into%20a%20Binary%20Search%20Tree_06170106.py)
 # 🐠CS50
 
 # 🐠本課程的心得
