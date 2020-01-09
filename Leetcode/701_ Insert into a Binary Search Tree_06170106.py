@@ -7,9 +7,9 @@ class TreeNode:
 
 class Solution:
     def insertIntoBST(self, root: TreeNode, val: int) -> TreeNode:
-        if root is None: #若
-            return TreeNode(val)
-        elif root.val > val:
+        while not root: ##若該節點不存在
+            return TreeNode(val) 
+        if root.val > val:
             root.left = self.insertIntoBST(root.left, val)
         elif root.val < val:
             root.right = self.insertIntoBST(root.right, val) 
