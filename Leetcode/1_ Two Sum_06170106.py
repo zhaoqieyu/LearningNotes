@@ -9,5 +9,5 @@ class Solution:
                 result0 = a[ok]
                 result1 = i
                 return [result0, result1]
-            else: #若ok在a裡面
+            else: 
                 a[nums[i]] = i 
