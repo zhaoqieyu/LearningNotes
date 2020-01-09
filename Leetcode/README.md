@@ -1,11 +1,24 @@
 # Leetcode
-
-## 1_Two Sum
-
-## 9_Palindrome Number
+>Leetcode所選的題目盡量跟課堂內容有關，雖然都是簡單的，但可以幫助我釐清觀念。
 
 ## 27_Remove Element
+題目 : 給定一個數組nums和一個值val，刪除該值的所有實例並返回新的長度。不要為另一個數組分配額外的空間，必須通過使用O（1）額外的內存就地修改輸入數組來做到這一點。元素的順序可以更改，超出新長度後剩下的都無所謂。
+
+Example : Given nums = [3,2,2,3], val = 3 / Output[2,2]
 
 ## 283_Move Zeroes
+題目 : 給定一個數組num，編寫一個函數，將所有0移到它的末尾，同時保持非零元素的相對順序。
 
-## 200_Remove Linked List Elements
+Example : Input: [0,1,0,3,12] / Output: [1,3,12,0,0]
+
+## 203_Remove Linked List Elements
+題目 : 從值val的整數鏈接列表中刪除所有元素。
+
+Example : Input:  1->2->6->3->4->5->6, val = 6 / Output: 1->2->3->4->5
+
+## 700_ Search in a Binary Search
+題目 : 給定二叉搜索樹（BST）的根節點和一個值。您需要在BST中找到該節點的值等於給定值的節點。返回以該節點為根的子樹。如果該節點不存在，則應返回NULL。
+
+## 701_ Insert into a Binary Search Tree
+題目 : 給定二叉搜索樹（BST）的根節點和要插入到樹中的值，請將其插入BST。插入後返回BST的根節點。可以確保原始BST中不存在新值。請注意，插入時可能存在多種有效方式，只要樹在插入後仍保持BST，則可以回傳。
+
