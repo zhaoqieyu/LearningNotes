@@ -24,6 +24,39 @@
    
 * 使用自己找的 **「visual studio code」** 的心得 : 可以把游標移到該變數上面，能夠隨著debug的過程中，看到現在變數是如何跑、變化的，個人覺得較spyder好用!
 
+# 🐠基本觀念
+* 類別
+class Node
+
+* 特徵、非行為
+
+def _init_(self,x,y)
+
+	self.value = x #生出物件時會follow此類別的初始狀態
+      
+	self.id = y
+      
+* 定義行為
+
+def insert(self.val)
+
+	!!self.next = val  #錯誤，有問題，因為沒在初始時說明有這個特徵
+	
+def insert(self,x)
+
+	self.val = x #永遠被記住，會存回物件裡，跟著此物件走，區域變數
+      
+	val #離開此處就不見	
+
+
+* 物件object : 東西活生生地站在面前
+
+main #舞台
+
+	a = Node(3,5) 	
+      
+	Node.insert(6)
+
 
 # 🐠作業專區
 
